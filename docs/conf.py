@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.abspath('..'))
 project = 'idsearch'
 copyright = '2022, A. Karekkat, A. Nair, B. Palit'
 author = 'A. Karekkat, A. Nair, B. Palit'
+root_doc = 'index'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1.2'
